@@ -1,0 +1,44 @@
+{
+    "tests": [
+        {
+            "name": "Test 1",
+            "setup": "",
+            "run": "echo 'Test 1'",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+        },
+        {
+            "name": "Test 2",
+            "setup": "",
+            "run": "echo 'Test 2'",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+        },
+        {
+            "name": "Test 3",
+            "setup": "",
+            "run": "echo 'Test 3'",
+            "input": "",
+            "output": "This is not correct",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+        },
+        {
+            "name": "Test 4",
+            "setup": "",
+            "run": "echo 'Test 4'",
+            "input": "",
+            "output": "Also incorrect",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+        }
+    ]
+}
