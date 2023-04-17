@@ -24,3 +24,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: markpatterson27/autograding@dev-step-summary-release
+        with:
+          step-summary: true
